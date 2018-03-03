@@ -1,4 +1,4 @@
-package linkedlist;
+package matrix;
 
 public class LinkedList {
 	Node head;

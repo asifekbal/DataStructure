@@ -1,4 +1,4 @@
-package linkedlist;
+package stack;
 
 public class LinkedList {
 	Node head;

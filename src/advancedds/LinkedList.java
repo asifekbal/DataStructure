@@ -1,4 +1,4 @@
-package linkedlist;
+package advancedds;
 
 public class LinkedList {
 	Node head;

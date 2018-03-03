@@ -1,4 +1,4 @@
-package linkedlist;
+package binarytree;
 
 public class LinkedList {
 	Node head;

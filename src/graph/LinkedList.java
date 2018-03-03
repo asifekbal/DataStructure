@@ -1,4 +1,4 @@
-package linkedlist;
+package graph;
 
 public class LinkedList {
 	Node head;
